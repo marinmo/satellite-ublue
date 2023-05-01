@@ -29,6 +29,13 @@ extrarepos:
 rpms:
   # needed for yafti (the first boot installer) (remove if you're not using yafti)
   - python3-pip
+  - fish
+  - keychain
+  - langpacks-en
+  - tmux
+  - virt-manager
+  - weechat
+  - wl-clipboard
 #  - libadwaita # libadwaita comes with silverblue, but not with other flavors
 # add your own below
 
