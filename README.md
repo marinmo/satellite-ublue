@@ -1,4 +1,4 @@
-# Starting point
+# satellite-ublue
 
 [![build-ublue](https://github.com/marinmo/satellite-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/marinmo/satellite-ublue/actions/workflows/build.yml)
 
